@@ -1,0 +1,5 @@
+Flask
+Gunicorn
+Pandas
+Numpy
+Scikit-learn
